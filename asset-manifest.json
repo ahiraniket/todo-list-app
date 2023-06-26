@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo-list-app/static/css/main.ee865242.css",
+    "main.js": "/todo-list-app/static/js/main.b9df5453.js",
+    "static/js/787.5480e000.chunk.js": "/todo-list-app/static/js/787.5480e000.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/todo-list-app/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/todo-list-app/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.2.96": "/todo-list-app/static/media/materialdesignicons-webfont.2e62b6565e8fb8e62ffc.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.2.96": "/todo-list-app/static/media/materialdesignicons-webfont.66f2d337503c6bd54e84.woff2",
+    "static/media/checked.png": "/todo-list-app/static/media/checked.752e4c657b6b89344862.png",
+    "static/media/unchecked.png": "/todo-list-app/static/media/unchecked.c983ba42ad527cec05e3.png",
+    "index.html": "/todo-list-app/index.html",
+    "main.ee865242.css.map": "/todo-list-app/static/css/main.ee865242.css.map",
+    "main.b9df5453.js.map": "/todo-list-app/static/js/main.b9df5453.js.map",
+    "787.5480e000.chunk.js.map": "/todo-list-app/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee865242.css",
+    "static/js/main.b9df5453.js"
+  ]
+}
