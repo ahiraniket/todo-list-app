@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todo-list-app/static/css/main.ee865242.css",
-    "main.js": "/todo-list-app/static/js/main.b9df5453.js",
+    "main.js": "/todo-list-app/static/js/main.5118e923.js",
     "static/js/787.5480e000.chunk.js": "/todo-list-app/static/js/787.5480e000.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/todo-list-app/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/todo-list-app/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -11,11 +11,11 @@
     "static/media/unchecked.png": "/todo-list-app/static/media/unchecked.c983ba42ad527cec05e3.png",
     "index.html": "/todo-list-app/index.html",
     "main.ee865242.css.map": "/todo-list-app/static/css/main.ee865242.css.map",
-    "main.b9df5453.js.map": "/todo-list-app/static/js/main.b9df5453.js.map",
+    "main.5118e923.js.map": "/todo-list-app/static/js/main.5118e923.js.map",
     "787.5480e000.chunk.js.map": "/todo-list-app/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee865242.css",
-    "static/js/main.b9df5453.js"
+    "static/js/main.5118e923.js"
   ]
 }
