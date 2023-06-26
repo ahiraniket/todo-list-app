@@ -13,12 +13,17 @@ export const TodoWrapper = () => {
     setTasks(savedTasks);
   }, []);
   const addTodo = (todo) => {
-    const newTasks = [
-      ...tasks,
-      { id: uuidv4(), task: todo, completed: false, isEditing: false },
-    ];
-    setTasks(newTasks);
-    localStorage.setItem("tasks", JSON.stringify(newTasks));
+    console.log(todo);
+    if (todo === "") {
+      alert("Empty Field! Task cannot be added!");
+    } else {
+      const newTasks = [
+        ...tasks,
+        { id: uuidv4(), task: todo, completed: false, isEditing: false },
+      ];
+      setTasks(newTasks);
+      localStorage.setItem("tasks", JSON.stringify(newTasks));
+    }
   };
   const toggleCompleteTask = (id) => {
     const newTasks = tasks.map((todo) =>
