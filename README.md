@@ -24,7 +24,7 @@ React Todo List is a sleek and efficient web application built using React, a po
 ## Installation
 To install and run the React Todo List application on your local machine, follow these steps:
 
-### 1. Clone the repository:
+### 1. Clone this repository:
 `git clone <repository-url>`
 
 ### 2. Navigate to the project directory:
